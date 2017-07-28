@@ -1,5 +1,6 @@
 # FOHEART C1 Mocap Suit Unity 3D Demo -- MarketCustomer
 # Please refer Wiki pages of this project for more details
+![MainThumbnail](https://raw.githubusercontent.com/FOHEART/U3D_Demo_FruitVendor/master/Assets/Thumbnail/FruitVendor.png)
 #[Version 1.0]
 Beijing FOHEART Co.Ltd.
 
